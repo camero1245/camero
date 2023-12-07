@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h2>My autobiography</h2>
+<title>Wilson autobiography</title>
+</head>
+       <body>My name is Wilson L. Camero Jr. and I’m 20 years old. I was born on September 19,2003,at  La Libertad, Negros Oriental, I’m a first year student
+             that took Bachelor of Science in Information Systems at Jose Rizal Memorial State University -Tampilisan Campus. My parents are Jocelyn Lisondra 
+             and Wilson Camero Sr. I have 2 brothers and 1 sister.
+
+      <p>I started study when I was 6 year old. I went to Kindergarten and Farmington Flementary School and I continue my Elementary study at Farmington
+      Elementary School in Tampilisan,Zamboanga del norte.I graduated at Tampilisan National High School,Tampilisan Zamboanga del norte. I am now a first year
+      college student at University of Tampilisan and currently aiming to graduate my Bachelor's Degree in Information System (IS) in the near future. I love 
+      to play Basketball especially when my families.When I have nothing to do I listen a music, one of my favorite song is 1980s like airsupply.</p>
+
+   
+
